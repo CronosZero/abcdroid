@@ -10,4 +10,16 @@ public class InicioActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout_inicio);
     }
+    
+    
+    
+    
+    private class ServiceExe extends AsyncTask<Void,Integer,Void>{
+        
+        
+        public void Background(){
+            
+        }
+        
+    }
 }
